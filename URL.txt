@@ -1,0 +1,37 @@
+Dossier url:
+
+https://deligume.com/   Prestashop
+http://efiautomotive.kiweerouge.com/    Wordpress
+https://kiweedev.celeonet.fr/   Wordpress
+
+Generator code php online
+http://www.writephponline.com/php-functions?explode
+
+Generator css online 
+https://www.html-code-generator.com/css-button-generator.php
+
+Generator image gif online (Loader)
+http://loadergenerator.com/rectangle
+
+Hooks et controller prestashop
+http://doc.prestashop.com/display/PS17/Hooks+in+PrestaShop+1.7.x
+https://developers.prestashop.com/module/04-DivingIntoPSCoreDevelopment/03-ControllersWithinPrestaShop.html
+
+Jquery form builder
+
+
+TUto less
+http://www.chiny.me/installation-de-less-12-2.php
+http://koala-app.com/
+
+Compilation code css to less
+https://www.css2less.net/
+
+
+COnvert css to sass generator online
+http://css2sass.herokuapp.com/
+
+TUtoriel bower
+https://fr.tuto.com/javascript/telecharger-vos-librairies-facilement-avec-bower-javascript,87871.html
+
+https://www.heroku.com/
