@@ -16,6 +16,7 @@ http://loadergenerator.com/rectangle
 Hooks et controller prestashop
 http://doc.prestashop.com/display/PS17/Hooks+in+PrestaShop+1.7.x
 https://developers.prestashop.com/module/04-DivingIntoPSCoreDevelopment/03-ControllersWithinPrestaShop.html
+https://devdocs.prestashop.com
 
 Jquery form builder
 
