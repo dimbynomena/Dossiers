@@ -39,3 +39,6 @@ https://www.heroku.com/
 ionic menu hamburger:
 https://demo.mobiscroll.com/angular/navigation/hamburger-menu
 https://csform.com/top-10-free-ionic-3-templates/
+
+Finctions wordpress codex:
+https://codex.wordpress.org/fr:Fonctions_de_r%C3%A9f%C3%A9rence
