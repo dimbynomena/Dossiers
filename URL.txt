@@ -35,3 +35,7 @@ TUtoriel bower
 https://fr.tuto.com/javascript/telecharger-vos-librairies-facilement-avec-bower-javascript,87871.html
 
 https://www.heroku.com/
+
+ionic menu hamburger:
+https://demo.mobiscroll.com/angular/navigation/hamburger-menu
+https://csform.com/top-10-free-ionic-3-templates/
