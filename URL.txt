@@ -48,3 +48,7 @@ https://wpformation.com/creer-plugin-wordpress/
 Migration Joomla vers Wordpress
 http://wpscouts.com/migrer-joomla-vers-wordpress/
 https://themeisle.com/blog/migrate-joomla-to-wordpress/
+
+
+Tutoriel php:
+http://www.grappa.univ-lille3.fr/~torre/Enseignement/tp/PHP/
