@@ -27,6 +27,9 @@ http://koala-app.com/
 Compilation code css to less
 https://www.css2less.net/
 
+CSS:
+https://htmlcheatsheet.com/css/
+
 
 COnvert css to sass generator online
 http://css2sass.herokuapp.com/
