@@ -41,3 +41,6 @@ https://www.heroku.com/
 
 Wordpress plugins live chat:
 https://wordpress.org/plugins/wp-live-chat-support/
+
+Création plugins wordpress:
+https://wpformation.com/creer-plugin-wordpress/
