@@ -39,5 +39,5 @@ https://fr.tuto.com/javascript/telecharger-vos-librairies-facilement-avec-bower-
 
 https://www.heroku.com/
 
-Wordpress plugins liva chat:
+Wordpress plugins live chat:
 https://wordpress.org/plugins/wp-live-chat-support/
