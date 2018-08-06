@@ -44,3 +44,7 @@ https://wordpress.org/plugins/wp-live-chat-support/
 
 Création plugins wordpress:
 https://wpformation.com/creer-plugin-wordpress/
+
+Migration Joomla vers Wordpress
+http://wpscouts.com/migrer-joomla-vers-wordpress/
+https://themeisle.com/blog/migrate-joomla-to-wordpress/
