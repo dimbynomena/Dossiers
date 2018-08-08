@@ -55,3 +55,6 @@ http://www.grappa.univ-lille3.fr/~torre/Enseignement/tp/PHP/
 
 Angular code snipper:
 https://blog.codewithdan.com/2017/04/01/angular-2-typescript-and-html-snippets-for-vs-code/
+
+Tuto GitFlow:
+https://danielkummer.github.io/git-flow-cheatsheet/
