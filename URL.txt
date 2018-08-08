@@ -58,6 +58,7 @@ https://blog.codewithdan.com/2017/04/01/angular-2-typescript-and-html-snippets-f
 
 Tuto GitFlow:
 https://danielkummer.github.io/git-flow-cheatsheet/
+https://www.grafikart.fr/formations/git/git-flow
 
 Prestashop Intégration themes:
 https://fr.slideshare.net/SabrinaPrestaShop/crer-et-intgrer-son-thme-prestashop
